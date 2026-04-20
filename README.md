@@ -105,6 +105,7 @@ config.py
 - Total komentar berhasil dikumpulkan dan diproses
 - Data author dan tanggal berhasil dinormalisasi
 - Tabel fact dan dimension terbentuk dengan relasi yang jelas
+
 Data siap digunakan untuk:
 - Analisis sentimen
 - Analisis engagement
