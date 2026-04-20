@@ -1,19 +1,9 @@
-API_KEY = "AIzaSyB1duIkhY6t032IpNTGGzQQ9vngA2ihE_g"
+API_KEY = "xxxxxx"
 
 DB_CONFIG = {
-    "host": "localhost",
-    "database": "youtube_dw",
-    "user": "postgres",
-    "password": "Febrian02", # lUyPEvZ6rOFtrSJA
-    "port": 5432
+    "host": "xxxxxx",
+    "database": "xxxxxx",
+    "user": "xxxxxx",
+    "password": "xxxxxx", # xxxxxx
+    "port": xxxxxx
 }
-
-# API_KEY = "AIzaSyB1duIkhY6t032IpNTGGzQQ9vngA2ihE_g"
-
-# DB_CONFIG = {
-#     "host": "db.xcqkcjvrawrorjnsgeew.supabase.co",
-#     "database": "postgres",
-#     "user": "postgres",
-#     "password": "lUyPEvZ6rOFtrSJA",
-#     "port": 5432
-# }
