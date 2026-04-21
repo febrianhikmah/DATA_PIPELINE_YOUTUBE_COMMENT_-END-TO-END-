@@ -10,7 +10,8 @@ Proyek ini berangkat dari pertanyaan sederhana:
 
 Untuk menjawabnya, saya membangun sistem pipeline ETL yang mampu mengambil data langsung dari YouTube, membersihkannya, memodelkannya ke dalam skema data warehouse, dan menyimpannya ke database PostgreSQL.
 
-Seluruh proses berjalan otomatis hanya dengan memasukkan URL video.
+### Seluruh proses berjalan otomatis hanya dengan memasukkan URL video.
+
 ---
 ## ⚙️ Gambaran Pipeline
 
