@@ -1,5 +1,7 @@
 # 🚀 END-TO-END DATA PIPELINE: KOMENTAR YOUTUBE (ETL + DATA WAREHOUSE)
 ---
+![Data Pipeline YouTube ](<./Data Pipeline YouTube Comment (End-to-End).png>)
+
 ## ✨ Gambaran Umum
 
 Proyek ini merupakan implementasi pipeline data end-to-end untuk mengekstrak, memproses, dan menyimpan data komentar YouTube ke dalam data warehouse yang terstruktur.
